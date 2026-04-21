@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Preview do Portfólio](./img/imagem1.jpeg)
+<img src="./img/imagem1.jpeg" width="200">
 
 **Portfólio pessoal desenvolvido com HTML, CSS e JavaScript puro.**
 
