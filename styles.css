@@ -952,3 +952,27 @@ textarea.campo-form {
         font-size: 2.5rem;
     }
 }
+.nav-btn-curriculo {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.5rem 1.1rem;
+    border: 1px solid rgba(167, 139, 250, 0.4);
+    border-radius: 8px;
+    color: var(--acento);
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+}
+ 
+.nav-btn-curriculo:hover {
+    background: rgba(167, 139, 250, 0.1);
+    border-color: var(--acento);
+    box-shadow: 0 0 16px rgba(167, 139, 250, 0.2);
+}
+ 
+.mob-link-destaque {
+    color: var(--acento) !important;
+}

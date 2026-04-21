@@ -11,7 +11,7 @@ formulario.addEventListener('submit', function (e) {
         return;
     }
 
-    const telefone = '5511999999999';
+    const telefone = '5511991306798';
     const texto = `Olá, meu nome é ${nome} e minha mensagem é: ${mensagem}`;
     window.open(`https://wa.me/${telefone}?text=${encodeURIComponent(texto)}`, '_blank');
 });
