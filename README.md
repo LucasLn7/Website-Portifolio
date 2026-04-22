@@ -6,7 +6,7 @@
 
 **Portfólio pessoal desenvolvido com HTML, CSS e JavaScript puro.**
 
-[![Site](https://img.shields.io/badge/🌐_Acessar_Site-lucasln7.github.io-4f46e5?style=flat)](https://lucasln7.github.io/Website-Portifolio/)
+[![Site](https://img.shields.io/badge/🌐_Acessar_Site-lucasln7.github.io-4f46e5?style=flat)](https://lucasln7.github.io/lucas-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--lima-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-lima-bb0043246/)
 [![GitHub](https://img.shields.io/badge/GitHub-LucasLn7-181717?style=flat&logo=github)](https://github.com/LucasLn7)
 
